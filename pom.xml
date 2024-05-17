@@ -5,7 +5,7 @@
   <artifactId>WebTest</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>WebTest Maven Webapp</name>
+  <name>WebTest</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
